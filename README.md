@@ -1,2 +1,2 @@
-# SEITAS-EM-DOC
+# SEITAS.DOC
 Uma landpage com os relatos fictícios de ex membros de seitas.  

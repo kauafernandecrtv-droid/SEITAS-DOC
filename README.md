@@ -1,2 +1,2 @@
 # SEITAS-DOC
-Uma landpage com os melhores doc de seitas.  
+Uma landpage com relatos em doc de seitas.  
